@@ -14,7 +14,10 @@ This special section is temporary. I will display important information related 
 
 ### TOEFL iBT 
 
-For English proof requirements I did the TOEFL iBT Home edition on the 6th of April, 2020. My score for this test was 107/120. 
+For English proof requirements I did the TOEFL iBT Home edition on the 6th of April, 2020. My score for this test was: 
+
+`107/120` 
+
 To see the official PDF score report check out this [link](https://drive.google.com/file/d/1sMDnl1d2vu5C8quG0mGPNlXq8_zIs6bk/view?usp=sharing).
 
 # My Bachelor Thesis
