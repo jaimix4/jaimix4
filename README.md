@@ -21,7 +21,7 @@ To see the official PDF score report check out this [link](https://drive.google.
 
 I am almost finishing my graduation work for getting my Bachelor's degree! The name of my thesis is:
 
-> **AUTOMATIC WASTE SORTING EXPERIMENTATION USING A NOVEL SMART TRASH BIN WITH CNN**
+**AUTOMATIC WASTE SORTING EXPERIMENTATION USING A NOVEL SMART TRASH BIN WITH CNN**
 
 That's a quite a mouthfull! Once you visit this [smart-trash-bin-my-thesis](https://github.com/jaimix4/smart-trash-bin-my-thesis) repository I did for showcasing a bit of the work done, it will be easy to understand!
 
