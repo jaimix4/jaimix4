@@ -23,7 +23,8 @@ I am almost finishing my graduation work for getting my Bachelor's degree! The n
 
 > **AUTOMATIC WASTE SORTING EXPERIMENTATION USING A NOVEL SMART TRASH BIN WITH CNN**
 
-That's a quite a mouthfull! Once you visit [this repository](https://github.com/jaimix4/smart-trash-bin-my-thesis) I did for showcasing a bit of the work done, it will be easy to understand!
+That's a quite a mouthfull! Once you visit this [smart-trash-bin-my-thesis](https://github.com/jaimix4/smart-trash-bin-my-thesis) repository I did for showcasing a bit of the work done, it will be easy to understand!
+
 This gif might give you sneak peak tho!
 
 <!---
